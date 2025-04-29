@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 - This GitHub is just for learning.😌
 - I’m currently learning JavaScript and Python.🌱
+<h2 class="heading-element" dir="auto">Badges and Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aspcat12&layout=compact">
+<img src="https://www.codewars.com/users/Aspcat12/badges/small">
